@@ -36,7 +36,9 @@ source_suffix = {
     ".rst": "restructuredtext",
     ".md": "markdown",
 }
+
 html_title = "How to Log in to Mailbird on Desktop"
+
 html_context = {
     "metatags": """
     <meta name="msvalidate.01" content="AF3C77D5C9F71F80302E8E0B85DB306B" />
