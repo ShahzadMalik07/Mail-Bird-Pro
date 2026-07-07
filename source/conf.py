@@ -39,11 +39,7 @@ source_suffix = {
 
 html_title = "How to Log in to Mailbird on Desktop"
 
-html_context = {
-    "metatags": """
-    <meta name="msvalidate.01" content="AF3C77D5C9F71F80302E8E0B85DB306B" />
-    """
-}
+
 # html_theme_options = {
 #     "navigation_depth": 4,
 #     "collapse_navigation": False,
